@@ -15,7 +15,7 @@ Em không ấn được cái màu xanh douuu :33',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'hôm nào rảnh đi chơi nhé ?!!!??.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiiii lun <3',
     messLink: 'http://facebook.com/thanhtrung281003' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 hahaCác bác sĩ cho biết thêm:
