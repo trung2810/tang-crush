@@ -18,4 +18,4 @@ Em không ấn được cái màu xanh douuu :33',
     btnAccept: 'Okiiiiii lun <3',
     messLink: 'http://facebook.com/thanhtrung281003' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
-hahaCác bác sĩ cho biết thêm:
+hahaCác bác sĩ cho biết thêm:biết thêm cái gì
